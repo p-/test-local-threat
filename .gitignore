@@ -1,0 +1,13 @@
+# IDEA
+.idea/
+
+# macOS
+.DS_Store
+
+# Gradle
+/build
+.gradle/
+package/build
+
+# Java
+*.class
